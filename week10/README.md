@@ -1,6 +1,4 @@
-Hi Janno!
-
-Mijn eindoplevering is gebaseerd op de website https://museumnacht.amsterdam/.
+Mijn eindopdracht is gebaseerd op de website https://museumnacht.amsterdam/.
 
 De homepagina is gebaseerd op de /museum pagina en de detailpagina op de /museum/79/allard-pierson pagina.
 
